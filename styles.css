@@ -1,0 +1,23 @@
+body {
+    font-family: "Kalam", cursive;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    margin: 15px 35px 45px 35px;
+    background-image: linear-gradient(yellow,maroon);
+}
+h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+#img1, #img2, #img3 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 2px maroon solid;
+}
+
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
